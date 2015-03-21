@@ -1,0 +1,16 @@
+{
+    "name": "ADV Express",
+   "version": "0.1",
+   "description": "Mi versión de ADV para FirefoxOS",
+   "launch_path": "/index.html",
+   "permissions": {
+ },
+   "developer": {
+     "name": "Leandro Vázquez Cervantes",
+     "url": "http://leandro.vc"
+   },
+ "icons": {
+     "60": "/images/adv-60.png",
+     "128": "/images/adv-128.png"
+ }
+}
